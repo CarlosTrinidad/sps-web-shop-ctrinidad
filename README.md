@@ -32,8 +32,9 @@ El proyecto es la interfaz de usuario para una tienda en línea. Permite a los u
 1. Clonar el Repositorio:
 
 ```bash
-  git clone [URL_DEL_REPOSITORIO]
-  cd SPS-Web-Shop-Client
+  git clone https://github.com/CarlosTrinidad/sps-web-shop-ctrinidad.git
+  
+  cd sps-web-shop-ctrinidad/
 ```
 
 2. Instalar Dependencias:
